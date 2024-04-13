@@ -18,6 +18,7 @@ To set up the application locally, follow these steps:
 \```bash
 git clone https://github.com/A00475617/CryptoPriceAndDigitClassifier.git
 cd CryptoPriceAndDigitClassifier
+pip install -r requirements.txt
 \```
 
 ## Usage
