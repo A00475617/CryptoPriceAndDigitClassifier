@@ -49,4 +49,3 @@ This project is open-source and available under the MIT License. See the `LICENS
 ## Project Link
 
 - Repository: [https://github.com/A00475617/CryptoPriceAndDigitClassifier.git](https://github.com/A00475617/CryptoPriceAndDigitClassifier.git)
-"""
